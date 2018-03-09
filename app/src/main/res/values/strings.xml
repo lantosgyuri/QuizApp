@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="points">Points: </string>
+
+    <string name="name">Name</string>
+
+    // first part questions and answers (Q is for Question, A is for answer)
+    <string name="checkbox_q1">A cat has how many whiskers, on average?</string>
+    <string name="checkbox_a11">8</string>
+    <string name="checkbox_a12">12</string>
+    <string name="checkbox_a13">24</string>
+
+    <string name="checkbox_q2">Do cats have fewer teeth than dogs have, or more?</string>
+    <string name="checkbox_a21">More</string>
+    <string name="checkbox_a22">The Same</string>
+    <string name="checkbox_a23">Fewer</string>
+
+    <string name="checkbox_q3">Which brain is the cat’s brain similar to? (2 good Answer)</string>
+    <string name="checkbox_a31">Dog's</string>
+    <string name="checkbox_a32">Human's</string>
+    <string name="checkbox_a33">Monkey's</string>
+
+    // second part questions and answers (Q is for Question, A is for answer)
+    <string name="radiobutton_q1">Outdoor-only cats live, on average, about:</string>
+    <string name="radiobutton_a11">7-10 Years</string>
+    <string name="radiobutton_a12">12-15 Years</string>
+    <string name="radiobutton_a13">3-5 Years</string>
+
+    <string name="radiobutton_q2">A term for a group of kittens is:</string>
+    <string name="radiobutton_a21">Kingle</string>
+    <string name="radiobutton_a22">Kaggle</string>
+    <string name="radiobutton_a23">Nook</string>
+
+    <string name="radiobutton_q3">Cats can’t taste this:</string>
+    <string name="radiobutton_a31">Sweet</string>
+    <string name="radiobutton_a32">Sour</string>
+    <string name="radiobutton_a33">Salt</string>
+
+    // image test Question (find the cat)
+    <string name="image_test">In which row has the Cat hide?</string>
+    <string name="image_toast_right">Wow! You have super eyes!</string>
+    <string name="image_toast_false">It was in the 3. row :(</string>
+    <string name="image_empty">Hey!! Where is the cat?</string>
+    <string name="image_answered">You have already answered.</string>
+
+    //informative texts
+    <string name="all_question">You have everything answered!</string>
+    <string name="toast_good">Wow! You are good!</string>
+    <string name="toast_bad">You do not know everything yet. :(</string>
+
+    //Button texts
+    <string name="button_text_next">Next</string>
+    <string name="button_text_show_score">Show my Score</string>
+    <string name="button_text_take_photo">Take Photo and make a Certification</string>
+    <string name="button_text_save">Save</string>
+
+    //Final score
+    <string name="final_score">Final score: </string>
+
+    // Certification text
+    <string name="on_image_score">Has made <x.liff.g id="points" example="2">%d points</x.liff.g> of 10</string>
+
+
+    // Pop up Get name
+    <string name="write_name">Your name here</string>
+
+
+
+
+</resources>

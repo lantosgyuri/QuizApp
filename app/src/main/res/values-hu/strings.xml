@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="points">Pontok: </string>
+    <string name="name">Név</string>
+    <string name="checkbox_q1">Mennyi bajusza van egy macskának átlagosan?</string>
+    <string name="checkbox_a11">8</string>
+    <string name="checkbox_a12">12</string>
+    <string name="checkbox_a13">24</string>
+    <string name="checkbox_q2">A macskáknak kevesebb vagy több fogok van mint a kutyáknak?</string>
+    <string name="checkbox_a21">Több</string>
+    <string name="checkbox_a22">Ugyannyi</string>
+    <string name="checkbox_a23">Kevesebb</string>
+    <string name="checkbox_q3">A macska agya kiknek az agáyhoz hasonlít jobban?</string>
+    <string name="checkbox_a31">Kutyák</string>
+    <string name="checkbox_a32">Emberek</string>
+    <string name="checkbox_a33">Majmok</string>
+    <string name="radiobutton_q1">A kinti macskák átlagban kb ... élnek:</string>
+    <string name="radiobutton_a11">7-10 év</string>
+    <string name="radiobutton_a12">12-15 év</string>
+    <string name="radiobutton_a13">3-5 év</string>
+    <string name="radiobutton_q2">A kicsmacskák csoportjának megnevezése:</string>
+    <string name="radiobutton_a21">Nemtom</string>
+    <string name="radiobutton_a22">Ezt sem</string>
+    <string name="radiobutton_a23">ez a jó válasz</string>
+    <string name="radiobutton_q3">A macskák nem érzik ezt az ízt:</string>
+    <string name="radiobutton_a31">Édes</string>
+    <string name="radiobutton_a32">Savanyú</string>
+    <string name="radiobutton_a33">Sós</string>
+    <string name="image_test">Melyik sorban bújt el a cica?</string>
+    <string name="button_text_next">Következő</string>
+    <string name="button_text_show_score">Mutasd a pontszámom</string>
+    <string name="button_text_take_photo">Csinálj egy oklevelet a fotóddal</string>
+    <string name="button_text_save">Mentés</string>
+    <string name="final_score">Végleges pontszám: </string>
+    <string name="on_image_score">Elért <x.liff.g id="points" example="2">%d points</x.liff.g> a 10ből</string>
+    <string name="write_name">Neved</string>
+    <string name="toast_bad">Még nem tudsz mindent.</string>
+    <string name="image_empty">Hol a cica?</string>
+    <string name="toast_good">Jó vagy!</string>
+    <string name="all_question">Mindenre válaszoltál!</string>
+    <string name="image_answered">Már válaszoltál.</string>
+    <string name="image_toast_false">A 3. sorban volt.</string>
+    <string name="image_toast_right">Szuper szemeid vannak!</string>
+</resources>
